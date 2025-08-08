@@ -1,0 +1,6 @@
+Rita_Bday= "7/12/2012"
+Sam_Bday= "23/9/2012" 
+Lucas_Bday= "26/2/2013"
+Samantha_Bday= "15/11/2011"
+Andrew_Bday= "18/1/2012"
+print("Hi my name is Raj ,and here are my friends brithdays :) My friend Rita's birthday is on",Rita_Bday, ". My friend Sam's birthday is on",Sam_Bday, ". My Friend Lucas is the youngest of us all his birthday is on",Lucas_Bday,".Samantha is the oldest person in our friend group her birthday is on",Samantha_Bday,". And last but not least my best friend, Andrew's bithday is on",Andrew_Bday,".")
