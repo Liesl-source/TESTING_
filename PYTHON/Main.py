@@ -1,2 +1,6 @@
 print("Hello!")
 print("How are you :)\nI'm doing good!")
+A=int (input ("Enter a number!"))
+B=int (input ("Enter another number"))
+print (A+B)
+print("Add two numbers 5 and 10=",5*10)
