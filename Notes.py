@@ -1,0 +1,9 @@
+Notes=int(input("Enter any value"))
+note_100=Notes//100
+note_50=(Notes%100)//50
+note_10=((Notes%100)%50)//10
+note_1=(((Notes%100)%50)%10)//1
+print("Number of 100R notes=", note_100)
+print("Number of 50R notes=", note_50)
+print("Number of 10R notes=", note_10)
+print("Number of 1R notes=", note_1)
