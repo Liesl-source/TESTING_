@@ -1,0 +1,37 @@
+temperature=int(input("Enter the current temperature in Celsuis:"))
+if temperature >= 30:
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("Its hot outside so you should wear light clothes.") 
+    print("                               ps:Dont forget to wear sunscreen!")
+elif temperature >= 20: 
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("Its warm outside so you should wear normal clothes.")
+    print("                               ps:You should go out and have fun :)") 
+elif temperature >= 15: 
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("Its cool outside so its best to wear something warm")
+    print("                               ps:This isnt an excuse to stay inside all day :P")
+elif temperature >= 10:
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("Its cold outside so you should wear a jacket")
+    print("                               ps: You should drink something warm too :)")
+elif temperature >= 0: 
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("its very cold outside so you should wear multiple layers of warm clothes")
+    print("                               ps:Dont forget your gloves and scarf!")
+else:
+    print("=================================")
+    print("WEATHER CLOTHING ADVICE")
+    print("=================================")
+    print("Its freezing outside so you should wear a heavy jacket and multiple layers of warm clothes")
+    print("                               ps:Be careful...Its colder than my Landlord's heart out there....:(")
