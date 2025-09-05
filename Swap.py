@@ -1,4 +1,8 @@
 A=9
 B=6
 C=4
-print("A+B+C=",A+B+C)
+incorrect=B-A+C
+print("A+B+C=",incorrect)
+Correct=A-B+C
+print("A+B+C=",Correct)
+
