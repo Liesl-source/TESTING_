@@ -10,8 +10,5 @@ while True:
         pen.left(90)
         size-=5
     size=size+1
-    if size
-
-
-    
-
+    if size>100:
+        break 
